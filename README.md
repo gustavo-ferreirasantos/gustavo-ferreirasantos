@@ -13,7 +13,5 @@
 <br />
 
 
-![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavo-ferreirasantos&show_icons=true&theme=radical)
-
 | <a href="https://github.com/Gustavo-FerreiraSantos/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Gustavo-FerreiraSantos&theme=buefy&include_all_commits=true&show_icons=true&hide_border=true)" alt="Gustavo's github stats" /></a>|<a href="https://github.com/Gustavo-FerreiraSantos/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-FerreiraSantos&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
